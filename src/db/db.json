@@ -2,61 +2,51 @@
   {
     "name": "Fantastic Fresh Shirt",
     "price": "30.39",
-    "category": "Home",
-    "description": "Introducing the Guatemala-inspired Chair, blending heavy style with local craftsmanship"
+    "category": "Home"
   },
   {
     "name": "Small Bronze Pizza",
     "price": "756.99",
-    "category": "Jewelry",
-    "description": "Savor the sour essence in our Bike, designed for troubled culinary adventures"
+    "category": "Jewelry"
   },
   {
     "name": "Elegant Granite Salad",
     "price": "713.79",
-    "category": "Tools",
-    "description": "Professional-grade Fish perfect for medium training and recreational use"
+    "category": "Tools"
   },
   {
     "name": "Rustic Frozen Car",
     "price": "255.09",
-    "category": "Computers",
-    "description": "The sky blue Keyboard combines Lithuania aesthetics with Mercury-based durability"
+    "category": "Computers"
   },
   {
     "name": "Refined Frozen Shirt",
     "price": "752.25",
-    "category": "Computers",
-    "description": "The Thomas Bike is the latest in a series of lost products from Casper - Lindgren"
+    "category": "Computers"
   },
   {
     "name": "Gorgeous Wooden Computer",
     "price": "453.59",
-    "category": "Health",
-    "description": "Savor the bitter essence in our Shirt, designed for burdensome culinary adventures"
+    "category": "Health"
   },
   {
     "name": "Unbranded Frozen Fish",
     "price": "473.00",
-    "category": "Industrial",
-    "description": "New Bacon model with 37 GB RAM, 4 GB storage, and amused features"
+    "category": "Industrial"
   },
   {
     "name": "Ergonomic Steel Fish",
     "price": "589.30",
-    "category": "Computers",
-    "description": "The Cross-platform optimal implementation Shoes offers reliable performance and dark design"
+    "category": "Computers"
   },
   {
     "name": "Rustic Plastic Chips",
     "price": "504.35",
-    "category": "Computers",
-    "description": "The Automated zero tolerance intranet Keyboard offers reliable performance and impeccable design"
+    "category": "Computers"
   },
   {
     "name": "Oriental Plastic Chair",
     "price": "148.35",
-    "category": "Books",
-    "description": "Savor the tender essence in our Salad, designed for regular culinary adventures"
+    "category": "Books"
   }
 ]
