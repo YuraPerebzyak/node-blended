@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate-products": "node src/scripts/generateProducts",
     "get-products": "node src/scripts/getProductsByMinPrice",
-    "get-modified-products": "node src/scripts/modifyProduct"
+    "get-modified-products": "node src/scripts/modifyProduct",
+    "get-total-price": "node src/scripts/getTotalPrice"
   },
   "keywords": [],
   "author": "",
